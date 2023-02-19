@@ -9,6 +9,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan we
 Berikut daftar Volunter yang diterima:
 
 * Xavier Dons, [oo.or.id](https://oo.or.id).
+* Rezza Brian, [LinkedIn](https://linkedin.com/in/rezza/brian).
 
 oo.or.id (https://oo.or.id/)
 OOn
